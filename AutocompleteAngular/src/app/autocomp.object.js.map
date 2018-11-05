@@ -1,0 +1,1 @@
+{"version":3,"file":"autocomp.object.js","sourceRoot":"","sources":["autocomp.object.ts"],"names":[],"mappings":";;;;;;;AAAA,sCAA0C;AAM1C,IAAa,YAAY;IAJzB;QAKQ,WAAM,GAAG,cAAc,CAAC;QACxB,SAAI,GAAG,KAAK,CAAC;QACb,UAAK,GAAG,SAAS,CAAA;IACzB,CAAC;IAAD,mBAAC;AAAD,CAAC,AAJD,IAIC;AAJY,YAAY;IAJxB,gBAAS,CAAC;QACP,QAAQ,EAAE,cAAc;QACxB,QAAQ,EAAE,uEAAuE;KACpF,CAAC;GACW,YAAY,CAIxB;AAJY,oCAAY"}
